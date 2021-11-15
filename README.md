@@ -1,6 +1,7 @@
 # blackjack-console-terminal
 Java BlackJack game using console terminal
-The project was created with the aim of creating something fun and more customizable.
+
+The project was created with the aim of creating something funny and easy.
 
 ### Installation
 To run the game you need to have:
