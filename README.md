@@ -35,3 +35,8 @@ Once the distribution is over, the player chooses whether to draw another card (
 Once the player has decided to stop, it is up to the dealer to draw, the latter does not stop until he has drawn or passed the player.
 
 ![game](./media/screenshot_game.png)
+
+### The result
+
+![game](./media/screenshot_win.png) ![game](./media/screenshot_game.png)
+
