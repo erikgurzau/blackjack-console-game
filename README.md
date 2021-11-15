@@ -23,3 +23,5 @@ When you start the game the following menu appears on the home screen
 
 After choosing, you will be asked the name (only 1 time) and bet for the game. 
 The bet may not exceed your money or the maximum allowed by the game (500), same thing for the minimum bet (2).
+
+![data](./media/screenshot_data.png)
