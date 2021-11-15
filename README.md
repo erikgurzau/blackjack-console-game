@@ -48,3 +48,8 @@ At the end of the game there are three possibilities:
 
 ![draw](./media/screenshot_draw.png)
 
+### Feedback
+If you have any feedback, please reach out to us at gurzau10@gmail.com
+
+### License
+[MIT](https://choosealicense.com/licenses/mit/)
