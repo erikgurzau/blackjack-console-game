@@ -38,5 +38,5 @@ Once the player has decided to stop, it is up to the dealer to draw, the latter 
 
 ### The result
 
-![game](./media/screenshot_win.png) ![game](./media/screenshot_lose.png)
+![win](./media/screenshot_win.png) ![lose](./media/screenshot_lose.png) ![draw](./media/screenshot_draw.png)
 
