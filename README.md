@@ -19,3 +19,7 @@ When you start the game the following menu appears on the home screen
   * Type '2' to restore your money to the default initial value (10), when you don’t have the money to play
   * Type '3' to see your amount of money
   * Type '0' to exit
+
+After choosing, you will be asked the name (only 1 time) and bet for the game. 
+
+The bet may not exceed your money or the maximum allowed by the game (500), same thing for the minimum bet (2).
