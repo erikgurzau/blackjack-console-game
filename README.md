@@ -13,4 +13,5 @@ When you start the game the following menu appears on the home screen
 ![menu](./media/screenshot_menu.png)
 
 >Type '1' to start the game
+
 >Type '2' to restore your money to the default initial value (10), so you can continue playing
