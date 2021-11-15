@@ -43,6 +43,8 @@ At the end of the game there are three possibilities:
 - When the player and the dealer get the same score without "getting high".
 
 ![win](./media/screenshot_win.png) 
+
 ![lose](./media/screenshot_lose.png) 
+
 ![draw](./media/screenshot_draw.png)
 
