@@ -38,7 +38,7 @@ Once the player has decided to stop, it is up to the dealer to draw, the latter 
 
 ### The result
 At the end of the game there are three possibilities: 
-- When the dealer "busts", that is, exceeds the maximum limit of 21 and consequently the/players win the double of the initial bet.
+- When the dealer "busts", that is, exceeds the maximum limit of 21 and consequently the player win the double of the initial bet.
 - When the player "busts" or is passed by the dealer. The player loses all the initial bet.
 - When the player and the dealer get the same score without "getting high".
 
