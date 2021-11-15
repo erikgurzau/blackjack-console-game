@@ -30,9 +30,7 @@ The bet may not exceed your money or the maximum allowed by the game (500), same
 ### Cards distribution
 
 From the shuffled deck, the dealear deals the player two cards and finally takes only one card, European style. 
-
 Once the distribution is over, the player chooses whether to draw another card (+) or stop (-). 
-
 Once the player has decided to stop, it is up to the dealer to draw, the latter does not stop until he has drawn or passed the player.
 
 ![game](./media/screenshot_game.png)
