@@ -28,3 +28,5 @@ The bet may not exceed your money or the maximum allowed by the game (500), same
 ![data](./media/screenshot_data.png)
 
 ### Cards distribution
+
+![cards](./media/screenshot_cards.png)
