@@ -12,6 +12,7 @@ When you start the game the following menu appears on the home screen
 
 ![menu](./media/screenshot_menu.png)
 
+>Type a number in the menu to continue
 
 ### Options available
   * Type '1' to start playing, put your name and place the bet
