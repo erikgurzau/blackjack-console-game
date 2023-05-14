@@ -11,7 +11,7 @@ You will need to have Java 8+ installed on your computer to run this game.
 3. Compile the `Main.java` file by running the command `javac Main.java` in the terminal.
 4. Run the game by entering the command `java Main` in the terminal.
 
-### The Game
+## The Game
 When you start the game the following menu appears on the home screen
 
 ![menu](./media/screenshot_menu.png)
