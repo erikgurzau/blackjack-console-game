@@ -1,5 +1,5 @@
-# Blackjack Console Game
-This is a console-based implementation of the popular casino game Blackjack, written in Java.
+# Blackjack Console Game [![HitCount](https://hits.dwyl.com/erikgurzau/blackjack-console-game.svg?style=flat)](http://hits.dwyl.com/erikgurzau/blackjack-console-game)
+This is a console-based implementation of the popular casino game Blackjack with an improved CLI graphics system.
 
 ## Getting Started
 ### Prerequisites
